@@ -1,0 +1,50 @@
+										JOURNAL DE BORD
+
+
+--->Jour 0 (lundi - semaine 1)
+
+	Aujourd'hui on a défini un thème pour le jeux et commencé à lister les tâches sur trello.
+	On a également crée ce que tu lis, c'est a dire notre journal de bord d'équipe.
+
+
+--->Jour 1 (mardi - semaine 1)
+	Aujourd'hui, nous nous sommes répartis les tâches à effectuer et mis à jour notre Trello. 
+	Nous avons découvert PICO-8 via des tutos sur Youtube. 
+	Serena a commencé à désigner la map. Difficile d'appréhender le point de vue de la caméra pour réaliser la map d'un jeu de plateforme. 
+	Nous avons réalisé l'importance de mettre des commentaires dans notre code sur Pico-8.
+	Hidouen et Maud ont commencé à coder des actions de notre Sprite, réaliser un son et compris comment s'articulent les fonctions
+	UNIT, UPDATE et DRAW.
+
+
+--->Jour 2 (mercredi - semaine 1)
+	Aujourd'hui, nous n'étions que 2 (Maud et Hidouen). Nous avons chacun continué à suivre les tutos.
+	Maud a crée une fonction collision et une fonction explosion, ainsi que l'affichage d'un score,
+	la création d'un bouton pour reset la partie et d'un super écran "GAME OVER".
+	Hidouen a aussi crée une fonction explosion, ainsi qu'un fond mobile a réutiliser pour faire les nuages dans notre map.
+
+---->Jour 3 (jeudi - semaine 1)
+	Aujourd'hui nous avons plutôt bien avancé (petite victoire)
+	Maud a travaillé sur la  gravité, le saut du Sprite, les déplacements des personnages et les balles.
+	Hidouen a travaillé sur la caméra, la Map et les déplacements.
+	Serena a travaillé sur la map.
+	Nous avons encore du travail sur la map, les personnages(personnages principaux, ennemis),  les sons et bien d'autres choses mais nous sommes déterminés à y arriver tout en nous amusants.
+	Nous espérons que Vanessa sera de la partie ce lundi afin d'avancer ensemble.
+
+---->Jour 4 (lundi - semaine 2)
+	Aujourd'hui nous avons refait le point sur notre jeu et l'ensemble des fonctionnalités déjà crée.
+	Hidouen a fait un résumé de l'ensemble des fonctions de notre jeu et la logique du code avec Pico-8.
+	Il a ajouté, avec l'aide de Maud, la collision à l'extrémité droite de la map et le suivis de la caméra.
+	Il a fait le flip du personnage principal.
+	On a redessiné notre personnage principal avec plusieurs positions pour créer un effet de mouvement quand elle marche.
+	Serena a inclus le code pour réaliser le mouvement de marche lorsque Daisy marche.
+	Maud a continué à dessiner la map et crée d'autres sprites.
+
+---->Jour 5 (Mardi -semaine 2)
+	Aujourd'hui nous avons plutôt bien avancé sur le jeu et une bonne partie de l'ensemble des fonctionnalités a été faite.
+	Hidouen a fait les collisions des différentes montagnes et différents murs
+	Maud a fait le son(musique) et dessiner la barre où sort les ennemies
+	Serena et Hidouen ont dessiné le méchant(la tortue) et ensuite faits les déplacements plus collisions.
+	Maud et Serena ont dessiné les fleurs qui s'ouvrent et se ferment sur la map. 
+
+---->Jour 6 (Mercredi -semaine 2)
+	Aujourd'hui nous avons apporté quelques améliorations au jeu : intégration de la musique du jeu, un son pour le saut, un son pour le game-over du joueur, un écran-titre avant de commencer le jeu, et une page de fin si 	le joueur a gagné. Nous avons dû arrêter d'ajouter des fonctionnalités au jeu pour commencer à préparer la démo. Nous avons debriefé sur la façon de présenter la démo du jeu demain. Nous avons beaucoup d'idées mais 		rien n'est encore finalisé pour demain. Nous n'avons pas crée de support de présentation. Le temps nous manque cet après-midi malheureusement. Daisy'lée.
